@@ -83,26 +83,10 @@
 
   <h4>Other Techstack</h4>
   <p>
-    <a href="https://laravel.com/" target="_blank">
-      <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg"
-        alt="laravel"
-        width="30"
-        height="30"
-      />
-    </a>
     <a href="https://www.python.org" target="_blank">
       <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
+        src="https://www.python.org/static/favicon.ico"
         alt="python"
-        width="30"
-        height="30"
-      />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-      <img
-        src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql"
         width="30"
         height="30"
       />
