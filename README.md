@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi stalker 👋, It's Ferdi here!</h1>
+  <h1 align="center">Hi 👋, It's Ferdi here!</h1>
   <img
     src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif"
     width="300"
