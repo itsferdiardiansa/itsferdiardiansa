@@ -16,6 +16,10 @@
   </p>
 </div>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ferdi-a-7737aa109" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/ferdi-a-7737aa109?trk=profile-badge">Ferdi A.</a></div>
+        
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <!-- Skills -->
 <div align="left">
   <h4>Main Techstack</h4>
