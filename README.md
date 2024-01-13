@@ -1,9 +1,9 @@
 <div align="center">
   <h1 align="center">Hi 👋, It's Ferdi here!</h1>
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif"
     width="300"
-  />
+  /> -->
 
   <h4>Software Engineer | Focuses on Web Development</h4>
 </div>
