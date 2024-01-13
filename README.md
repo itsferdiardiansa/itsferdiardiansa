@@ -94,26 +94,10 @@
   </p>
 </div>
 
-<div align="left">
-  <h4>Find me on</h4>
-
-  <a href="https://github.com/itsferdiardiansa">
-    <img 
-      src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/github.png"
-      width="30"
-    >
-  </a>
-
-  <a href="https://www.linkedin.com/in/ferdi-ardiansa-7737aa109/">
-    <img 
-      src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/linkedin.png"
-      width="30"
-    >
-  </a>
-</div>
-
 <br />
+
 <!--Stats -->
+
 <div>
   <h4>Stats</h4>
   <p>
