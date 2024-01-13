@@ -1,12 +1,11 @@
-<!-- <div align="left">
+<div align="left">
   <h1 align="left">Hi 👋, It's Ferdi here!</h1>
-  <img
+<!--   <img
     src="https://raw.githubusercontent.com/itsferdiardiansa/itsferdiardiansa/master/icons/developer.gif"
     width="300"
   />
-
-  <h4>Software Engineer | Focuses on Web Development</h4>
-</div> -->
+  <h4>Software Engineer | Focuses on Web Development</h4> -->
+</div>
 
 <div align="left">
   <p>
