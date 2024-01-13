@@ -10,7 +10,7 @@
 <div align="left">
   <p>
     Welcome to my personal git account! <br />
-    I'm Software Engineer who is interested in web development and also DevOps, <br />
+    I'm Software Engineer who is interested in web development, <br />
     currently living in Jakarta, Indonesia 🇮🇩
   </p>
 </div>
